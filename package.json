@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://PhoneMyint-Thaw.github.io",
+  "homepage": "https://phonemyint-thaw.github.io",
   "private": true,
   "dependencies": {
     "@heroicons/react": "^2.0.11",
